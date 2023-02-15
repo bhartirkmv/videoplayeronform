@@ -1,2 +1,2 @@
 const String kNoVideosAvailable = "No videos available";
-const String kHomePageTitle = "My Video Fire";
+const String kHomePageTitle = "Video Player Onform";
