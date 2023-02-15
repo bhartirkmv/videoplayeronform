@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "202009261421",
+    "project_id": "videoplayerfirebase-bbd42",
+    "storage_bucket": "videoplayerfirebase-bbd42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202009261421:android:a25e38a33853592d4c9664",
+        "android_client_info": {
+          "package_name": "com.example.videoplayerfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202009261421-n484mif6vmqkfbdi8ubj3u8n4gd1akul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPRW5JtguX3LfwSugEsP8u-ALrMKzMmuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202009261421-n484mif6vmqkfbdi8ubj3u8n4gd1akul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
